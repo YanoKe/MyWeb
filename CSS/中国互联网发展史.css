@@ -1,0 +1,237 @@
+*{margin: auto;}
+body{
+    background: linear-gradient(to right,#f8b2cf,#a2eaea);
+}
+h2{
+    margin: 5px;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.box1{
+    width: 1500px;
+    height: 17300px;
+    background-color: rgba(255, 255, 255, .6);
+    border-radius: 35px;
+    
+}
+.one{
+    position: relative;
+    height: 400px;
+}
+.img{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 35px;
+    left: 120px;
+}
+
+.text{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+.one1{
+    position: relative;
+    height: 470px;
+}
+.img1{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+
+.text1{
+    position: absolute;
+    top: 130px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+.two{
+    position: relative;
+    height: 640px;
+}
+.img2{
+    width: 1200px;
+    position: absolute;
+    top: 88px;
+    left: 160px;
+}
+.img2>img{
+    float: left;
+    width: 450px;
+    margin: 50px;
+}
+.text2{
+    position: absolute;
+    top: 16px;
+    left: 25px;
+    line-height: 20px;
+    width: 1444px;
+}
+.one3{
+    position: relative;
+    height: 320px;
+}
+.img3{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+.text3{
+    position: absolute;
+    top: 70px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+.one4{
+    position: relative;
+    height: 570px;
+}
+.img4{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+
+.text4{
+    position: absolute;
+    top: 160px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+p{
+    width: 1300px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ff6700;
+}
+.one5{
+    position: relative;
+    height: 300px;
+}
+.img5{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+.text5{
+    position: absolute;
+    top: 20px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+.one6{
+    position: relative;
+    height: 730px;
+}
+.img6{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+
+.text6{
+    position: absolute;
+    top: 190px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+.img2-2{
+    width: 1200px;
+    position: absolute;
+    top: 223px;
+    left: 160px;
+}
+.img2-2>img{
+    float: left;
+    width: 450px;
+    margin: 50px;
+}
+.text2-2{
+    position: absolute;
+    top: 16px;
+    left: 25px;
+    line-height: 20px;
+    width: 1444px;
+}
+.img2-3{
+    width: 1200px;
+    position: absolute;
+    top: 150px;
+    left: 160px;
+}
+.img2-3>img{
+    float: left;
+    width: 450px;
+    margin: 50px;
+}
+.text2-3{
+    position: absolute;
+    top: 45px;
+    left: 25px;
+    line-height: 20px;
+    width: 1444px;
+}
+.img4-2{
+    float: left;
+    width: 450px;
+    position: absolute;
+    top: 55px;
+    left: 120px;
+}
+
+.text4-2{
+    position: absolute;
+    top: 55px;
+    left: 600px;
+    line-height: 20px;
+    width: 850px;
+}
+strong{
+    font-size: 18px;
+}
+
+.top{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 25px;
+    bottom: 50px;
+}
+.bottom{
+    margin-top: 15px;
+    line-height: 40px;
+    height: 40px;
+    width: 1500px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 35px;
+}
+.bottom>p{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
